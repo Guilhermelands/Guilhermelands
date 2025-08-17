@@ -15,7 +15,5 @@
  	<a href="https://www.twitch.tv/miniponto" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/WHJY4Z73W7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "tongui1309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
 
-![snake gif](https://github.com/Guilhermelands/Guilhermelands/blob/output/github-contribution-grid-snake.svg)
